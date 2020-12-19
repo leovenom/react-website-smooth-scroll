@@ -21,7 +21,7 @@ export const homeObjTwo = {
   lightText: false,
   lighttextDesc: false,
   topLine: 'Unlimited Access',
-  headline: 'Unlimited Transactions with zero fees',
+  headline: 'Login to your account at any time',
   description: 'Get access to our exclusive app that allows you to send unlimited transactions whitout getting charged any fees.',
   buttonLabel: 'Learn More',
   imgStart: true,
@@ -33,14 +33,14 @@ export const homeObjTwo = {
 };
 
 export const homeObjThree = {
-  id: 'about',
+  id: 'signup',
   lightBg: false,
   lightText: true,
   lighttextDesc: true,
   topLine: 'Premium Bank',
-  headline: 'Unlimited Transactions with zero fees',
+  headline: 'Creating an account is extremely easy',
   description: 'Get access to our exclusive app that allows you to send unlimited transactions whitout getting charged any fees.',
-  buttonLabel: 'Get started',
+  buttonLabel: 'Start Now',
   imgStart: false,
   img: '/images/svg-3.svg',
   alt: 'car',
