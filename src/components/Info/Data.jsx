@@ -34,17 +34,16 @@ export const homeObjTwo = {
 
 export const homeObjThree = {
   id: 'signup',
-  lightBg: false,
-  lightText: true,
-  lighttextDesc: true,
+  lightBg: true,
+  lightText: false,
+  lighttextDesc: false,
   topLine: 'Premium Bank',
   headline: 'Creating an account is extremely easy',
   description: 'Get access to our exclusive app that allows you to send unlimited transactions whitout getting charged any fees.',
   buttonLabel: 'Start Now',
-  imgStart: false,
+  imgStart: true,
   img: '/images/svg-3.svg',
   alt: 'car',
-  dark: true,
-  primary: true,
-  darkText: false
+  primary: false,
+  darkText: true
 };
