@@ -1,3 +1,12 @@
+# React-website-smooth-scroll
+
+<a href="https://leonardt.eu">
+ <p align="center">
+  <img src="https://i.imgur.com/bzjGW4k.gif?w="350" alt="Profile"
+ </p>
+</a>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -67,10 +76,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `yarn build` fails to minify
 
+<<<<<<< HEAD
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # -react-website-smooth-scroll
 # mm
 # mm
 # mm
 # mm
+# mm
+=======
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+>>>>>>> 309c935e16113a65c5fd2207fd057742403dc323
 # mm
