@@ -1,4 +1,4 @@
-# -react-website-smooth-scroll
+# React-website-smooth-scroll
 
 <a href="https://leonardt.eu">
  <p align="center">
