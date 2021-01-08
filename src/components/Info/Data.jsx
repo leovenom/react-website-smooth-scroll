@@ -24,7 +24,7 @@ export const homeObjTwo = {
   headline: 'Login to your account at any time',
   description: 'Get access to our exclusive app that allows you to send unlimited transactions whitout getting charged any fees.',
   buttonLabel: 'Learn More',
-  imgStart: false,
+  imgStart: true,
   img: '/images/svg-4.svg',
   alt: 'Piggybanck',
   dark: false,
