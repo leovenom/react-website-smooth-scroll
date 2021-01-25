@@ -22,7 +22,7 @@ export const FormWrap = styled.div`
   flex-direction: column;
   justify-content: center;
 
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 480px) {
     height: 80%;
   }
 `
@@ -61,7 +61,7 @@ export const Form = styled.form`
   border-radius:4px;
   box-shadow: 0 1px 3px rgba( 0, 0, 0, 0.9);
   
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 480px) {
     padding: 32px 32px;
   }
   `
